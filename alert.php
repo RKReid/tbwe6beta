@@ -1,0 +1,1 @@
+document.write("<div class='warningbox'>This is TBWE6's Public Beta. It is a very watered down version of TBWE6.</div>");
